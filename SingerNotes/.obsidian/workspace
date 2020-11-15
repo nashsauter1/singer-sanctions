@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "be4d6011e38c6939",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa808563e95217f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "One World Now (Singer 2016).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "228e941e2304d864",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A Changing World.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "168c94594a0f71fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b6bd1119d58a005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f09b67ba44944adc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e9c163b313f8199",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "400373bf92dc07cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2859497578e6df52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "930a4940ea177794",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A Changing World.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "A Changing World.md",
+    "One World Now (Singer 2016).md",
+    "Untitled.md",
+    "One World Now (Singer, 2016).md",
+    "202011131542.md"
+  ]
+}
