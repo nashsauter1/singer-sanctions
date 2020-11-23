@@ -16,5 +16,159 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{popper2002}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af678ce291c200fd37cd78a346556e99}{%
+           family={Popper},
+           familyi={P\bibinitperiod},
+           given={Karl\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{af678ce291c200fd37cd78a346556e99}
+      \strng{fullhash}{af678ce291c200fd37cd78a346556e99}
+      \strng{bibnamehash}{af678ce291c200fd37cd78a346556e99}
+      \strng{authorbibnamehash}{af678ce291c200fd37cd78a346556e99}
+      \strng{authornamehash}{af678ce291c200fd37cd78a346556e99}
+      \strng{authorfullhash}{af678ce291c200fd37cd78a346556e99}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{OCLC: 846472234}
+      \field{isbn}{978-0-415-61021-6}
+      \field{langid}{english}
+      \field{pagetotal}{755}
+      \field{series}{Routledge Classics}
+      \field{title}{The Open Society and Its Enemies}
+      \field{year}{2002}
+      \field{dateera}{ce}
+    \endentry
+    \entry{singer2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d574b6dcd56832df2dc2e91415af120}{%
+           family={Singer},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{6d574b6dcd56832df2dc2e91415af120}
+      \strng{fullhash}{6d574b6dcd56832df2dc2e91415af120}
+      \strng{bibnamehash}{6d574b6dcd56832df2dc2e91415af120}
+      \strng{authorbibnamehash}{6d574b6dcd56832df2dc2e91415af120}
+      \strng{authornamehash}{6d574b6dcd56832df2dc2e91415af120}
+      \strng{authorfullhash}{6d574b6dcd56832df2dc2e91415af120}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Seamlessly integrates major development of the past decade into Peter Singer's classic text on the ethics of globalization, "One World." One of the world's most influential philosophers here confronts both the perils and potentials inherent in globalization. every issue is considered from an ethical perspective, including climate change, foreign aid, human rights, immigration, and the responsibility to protect people from genocide and crimes against humanity. Singer argues powerfully that solving global problems requires transcending national differences}
+      \field{annotation}{OCLC: ocn959539301}
+      \field{edition}{Revised edition}
+      \field{isbn}{978-0-300-19605-4}
+      \field{pagetotal}{267}
+      \field{series}{Dwight {{Harrington Terry Foundation}} Lectures on Religion in the Light of Science and Philosophy}
+      \field{shorttitle}{One World Now}
+      \field{title}{One World Now: The Ethics of Globalization}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{smart1958}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a69bf31afc133278ec7153b1a2ab4b7d}{%
+           family={Smart},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a69bf31afc133278ec7153b1a2ab4b7d}
+      \strng{fullhash}{a69bf31afc133278ec7153b1a2ab4b7d}
+      \strng{bibnamehash}{a69bf31afc133278ec7153b1a2ab4b7d}
+      \strng{authorbibnamehash}{a69bf31afc133278ec7153b1a2ab4b7d}
+      \strng{authornamehash}{a69bf31afc133278ec7153b1a2ab4b7d}
+      \strng{authorfullhash}{a69bf31afc133278ec7153b1a2ab4b7d}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0026-4423, 1460-2113}
+      \field{journaltitle}{Mind}
+      \field{langid}{english}
+      \field{number}{268}
+      \field{shortjournal}{Mind}
+      \field{title}{Negative {{Utilitarianism}}}
+      \field{volume}{LXVII}
+      \field{year}{1958}
+      \field{dateera}{ce}
+      \field{pages}{542\bibrangedash 543}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1093/mind/LXVII.268.542
+      \endverb
+      \verb{file}
+      \verb /Users/nashsauter/Zotero/storage/BPNQMILX/Smart - 1958 - NEGATIVE UTILITARIANISM.pdf
+      \endverb
+    \endentry
+    \entry{widdows2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e480b5c388d94dcf5e0e6a1ede9e89d6}{%
+           family={Widdows},
+           familyi={W\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Durham}%
+      }
+      \list{publisher}{1}{%
+        {Acumen Publishing Limited}%
+      }
+      \strng{namehash}{e480b5c388d94dcf5e0e6a1ede9e89d6}
+      \strng{fullhash}{e480b5c388d94dcf5e0e6a1ede9e89d6}
+      \strng{bibnamehash}{e480b5c388d94dcf5e0e6a1ede9e89d6}
+      \strng{authorbibnamehash}{e480b5c388d94dcf5e0e6a1ede9e89d6}
+      \strng{authornamehash}{e480b5c388d94dcf5e0e6a1ede9e89d6}
+      \strng{authorfullhash}{e480b5c388d94dcf5e0e6a1ede9e89d6}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-1-84465-283-9}
+      \field{shorttitle}{Global {{Ethics}}}
+      \field{title}{Global {{Ethics}}: {{An Introduction}}}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1017/UPO9781844652839
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
