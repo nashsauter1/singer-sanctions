@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 NOV 2020 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 NOV 2020 22:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,7 +344,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'mla.dbx' not found.
+Package biblatex Info: ... file 'authoryear-comp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count329
@@ -452,27 +452,37 @@ File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip20
 \c@smartand=\count405
 )
-Package biblatex Info: Trying to load bibliography style 'mla'...
-Package biblatex Info: ... file 'mla.bbx' found.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-mla/mla.bbx
-File: mla-this.bbx 2016/11/01 v1.9 biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.bbx' found.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/authoryear-comp.bbx
+File: authoryear-comp.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count406
 \c@bbx:relatedtotal=\count407
-))
-Package biblatex Info: Trying to load citation style 'mla'...
-Package biblatex Info: ... file 'mla.cbx' found.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-mla/mla.cbx
-File: mla-this.cbx 2016/11/01 v1.9 biblatex citation style
-Package biblatex Info: Redefining '\parencite'.
+)))
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/authoryear-comp.cbx
+File: authoryear-comp.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\fullcite'.
+Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -587,32 +597,20 @@ Package microtype Info: Loading generic protrusion settings for font family
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package biblatex Info: Trying to load language 'american' -> 'american-mla'...
-Package biblatex Info: ... file 'american-mla.lbx' found.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-mla/american-mla.lbx
-File: american-mla.lbx 2013/03/24 v0.2.5 biblatex style localization
 Package biblatex Info: Trying to load language 'american'...
 Package biblatex Info: ... file 'american.lbx' found.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/american.lbx
 File: american.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
-Package biblatex Info: ... file 'english-mla.lbx' found.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
-File: english-mla.lbx 2013/03/24 v0.4.5 biblatex style localization
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-)))
-Package biblatex Info: Trying to load language 'english' -> 'english-mla'...
-Package biblatex Info: ... file 'english-mla.lbx' found.
- (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
-File: english-mla.lbx 2013/03/24 v0.4.5 biblatex style localization
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
-)))
+))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -659,15 +657,26 @@ LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/m/it' aliased to
 LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/it' will be
 (Font)              scaled to size 12.0pt on input line 53.
  [2] [3] [4] [5] [6] [7] [8] [9] [10]
-
-Package biblatex Warning: '\mkdatezeros' is deprecated.
-(biblatex)                Please use '\mkyearzeros', '\mkmonthzeros' or
-(biblatex)                '\mkdayzeros' as appropriate. 
-(biblatex)                Falling back to '\mkmonthzeros'.
-
-
+LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/m/sc' aliased to
+(Font)              `OT1/CormorantGaramond-LF/regular/sc' on input line 155.
+LaTeX Font Info:    Font shape `OT1/CormorantGaramond-LF/regular/sc' will be
+(Font)              scaled to size 12.0pt on input line 155.
+Package microtype Info: Character `013' is missing
+(microtype)             in font `OT1/CormorantGaramond-LF/regular/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 155.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 155.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 155.
+ [11] 
 AED: lastpage setting LastPage
-[11]
+[12]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
  (./paper.aux)
@@ -681,18 +690,18 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 156.
  ) 
 Here is how much of TeX's memory you used:
- 16077 strings out of 480608
- 289295 string characters out of 5903631
- 1006424 words of memory out of 5000000
- 31671 multiletter control sequences out of 15000+600000
- 547725 words of font info for 56 fonts, out of 8000000 for 9000
+ 15790 strings out of 480608
+ 281924 string characters out of 5903631
+ 982933 words of memory out of 5000000
+ 31402 multiletter control sequences out of 15000+600000
+ 551582 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,11n,102p,1239b,4061s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_k54atz.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_usix3v.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-Italic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-Regular.pfb>
-Output written on paper.pdf (12 pages, 135056 bytes).
+ 51i,11n,70p,1239b,1876s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_ctw2ju.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_k54atz.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cormorantgaramond/cgrm_usix3v.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-Bold.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-Italic.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/catharsis/cormorantgaramond/CormorantGaramond-Regular.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on paper.pdf (13 pages, 143770 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
- 53 named destinations out of 1000 (max. 500000)
- 6657 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 9217 words of extra memory for PDF output out of 10000 (max. 10000000)
 
